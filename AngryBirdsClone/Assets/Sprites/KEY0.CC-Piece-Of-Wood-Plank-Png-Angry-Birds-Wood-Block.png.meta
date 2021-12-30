@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: aa2c0df6e2749c340ad3399fb4177858
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7095261016034870997
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_0
+  - first:
+      213: -5897811419963443633
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_1
+  - first:
+      213: 149623658057724695
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_2
+  - first:
+      213: 6437079144567113945
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_3
+  - first:
+      213: -7438493999170698674
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_4
+  - first:
+      213: 6134152751398625702
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_5
+  - first:
+      213: 1659642607424660812
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_6
+  - first:
+      213: 8424921696363381550
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_7
+  - first:
+      213: -3742113368694654598
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_8
+  - first:
+      213: 106756522315732301
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_9
+  - first:
+      213: 4964074295339472470
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_10
+  - first:
+      213: 8606549618996859445
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_11
+  - first:
+      213: 1779654273252770514
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_12
+  - first:
+      213: 5471208842618910652
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_13
+  - first:
+      213: 4776382312786267262
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_14
+  - first:
+      213: 7433811305859082344
+    second: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d68f614d4e677260800000000000000
+      internalID: 7095261016034870997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 306
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4636d0f2c3c62ea0800000000000000
+      internalID: -5897811419963443633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 308
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713768c9ce1931200800000000000000
+      internalID: 149623658057724695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 201
+        width: 205
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d88ffa7069155950800000000000000
+      internalID: 6437079144567113945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 112
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e424e8b5e1925c890800000000000000
+      internalID: -7438493999170698674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 113
+        width: 167
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1a9116d63e02550800000000000000
+      internalID: 6134152751398625702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 222
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4566a5882c380710800000000000000
+      internalID: 1659642607424660812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 232
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23883c45a55be470800000000000000
+      internalID: 8424921696363381550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 267
+        width: 83
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f6bdb7b7511cc0800000000000000
+      internalID: -3742113368694654598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 222
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45d51ecd764b7100800000000000000
+      internalID: 106756522315732301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 155
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6565b54554fe3e440800000000000000
+      internalID: 4964074295339472470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d41e674b907770800000000000000
+      internalID: 8606549618996859445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 225
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2cc3ce12a92b810800000000000000
+      internalID: 1779654273252770514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7b6446473adeb40800000000000000
+      internalID: 5471208842618910652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8519386e194240800000000000000
+      internalID: 4776382312786267262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Piece-Of-Wood-Plank-Png-Angry-Birds-Wood-Block_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86863052ff33a2760800000000000000
+      internalID: 7433811305859082344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

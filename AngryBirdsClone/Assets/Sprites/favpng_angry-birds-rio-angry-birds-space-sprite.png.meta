@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 6a4f24b68bd3b6841bb14919dfdcb252
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5520666962431470547
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_0
+  - first:
+      213: -4130290612227030906
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_1
+  - first:
+      213: -429092498564409878
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_2
+  - first:
+      213: -7723966108024697012
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_3
+  - first:
+      213: 5823046648182826674
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_4
+  - first:
+      213: 3451235604270604592
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_5
+  - first:
+      213: -1431786749158189672
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_6
+  - first:
+      213: 1370490722179987049
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_7
+  - first:
+      213: 4518749564930861547
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_8
+  - first:
+      213: -5231737433969461921
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_9
+  - first:
+      213: 892839783733603907
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_10
+  - first:
+      213: 8746209611847323999
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_11
+  - first:
+      213: -8396598015748008722
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_12
+  - first:
+      213: -4611946413496537611
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_13
+  - first:
+      213: -7322101552206913763
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_14
+  - first:
+      213: -7588423961282717598
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_15
+  - first:
+      213: -1297587363514811384
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_16
+  - first:
+      213: -7393774571322226921
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_17
+  - first:
+      213: -1695501932730786290
+    second: favpng_angry-birds-rio-angry-birds-space-sprite_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 272
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db66f24a595d9c40800000000000000
+      internalID: 5520666962431470547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 678
+        width: 227
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680c31742924ea6c0800000000000000
+      internalID: -4130290612227030906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 680
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5984f55ae8b0af0800000000000000
+      internalID: -429092498564409878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 664
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f08028fb5fec490800000000000000
+      internalID: -7723966108024697012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 650
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6677f131e9fc050800000000000000
+      internalID: 5823046648182826674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 229
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031eab42f7045ef20800000000000000
+      internalID: 3451235604270604592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 428
+        width: 181
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895905e9985412ce0800000000000000
+      internalID: -1431786749158189672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 449
+        width: 166
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966b187fc06f40310800000000000000
+      internalID: 1370490722179987049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 220
+        width: 174
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a7a6b9c2d5be30800000000000000
+      internalID: 4518749564930861547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 226
+        width: 167
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f222d5822567b0800000000000000
+      internalID: -5231737433969461921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 264
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e27c68d01046c00800000000000000
+      internalID: 892839783733603907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 278
+        width: 119
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5154457d47c06970800000000000000
+      internalID: 8746209611847323999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4179d779a497b80800000000000000
+      internalID: -8396598015748008722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 141
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde66c0c231fffb0800000000000000
+      internalID: -4611946413496537611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 151
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fde53be6ba26a90800000000000000
+      internalID: -7322101552206913763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 119
+        width: 175
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685ea6cc9080b690800000000000000
+      internalID: -7588423961282717598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 126
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cf9a4fa2b0efde0800000000000000
+      internalID: -1297587363514811384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 136
+        width: 119
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717c5078339046990800000000000000
+      internalID: -7393774571322226921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 220
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed79fa9fd5878e0800000000000000
+      internalID: -1695501932730786290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

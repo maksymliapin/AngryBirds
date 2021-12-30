@@ -1,0 +1,4512 @@
+fileFormatVersion: 2
+guid: 7de7280a113118745b7f99f808201f20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -792216946936928486
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_0
+  - first:
+      213: -8870318644189646577
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_1
+  - first:
+      213: 2730667454852291419
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_2
+  - first:
+      213: 3023048257300961517
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_3
+  - first:
+      213: 8874016347221543065
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_4
+  - first:
+      213: -8199841793899912339
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_5
+  - first:
+      213: -7044806702735694841
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_6
+  - first:
+      213: 1136315864483571497
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_7
+  - first:
+      213: -4140468785035876522
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_8
+  - first:
+      213: -5603366172481446459
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_9
+  - first:
+      213: 3522976543646974866
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_10
+  - first:
+      213: -1736919803620956333
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_11
+  - first:
+      213: -7778784616858329549
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_12
+  - first:
+      213: 5277751795256033667
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_13
+  - first:
+      213: -6349059712887618953
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_14
+  - first:
+      213: 6950538435007773764
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_15
+  - first:
+      213: -6609858927032119622
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_16
+  - first:
+      213: -5494067760824245705
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_17
+  - first:
+      213: -4863914041536758811
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_18
+  - first:
+      213: -1416894531770463610
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_19
+  - first:
+      213: -7374976651213106582
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_20
+  - first:
+      213: 3182137655916990004
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_21
+  - first:
+      213: 1727064424230977980
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_22
+  - first:
+      213: 4368280939779808734
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_23
+  - first:
+      213: 8204343960189320409
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_24
+  - first:
+      213: 1105670624176344973
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_25
+  - first:
+      213: 378780996758498620
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_26
+  - first:
+      213: -6477504697106521708
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_27
+  - first:
+      213: -1531293862028978651
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_28
+  - first:
+      213: -8506187530393316101
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_29
+  - first:
+      213: -6933378909837748684
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_30
+  - first:
+      213: 8918724080963277354
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_31
+  - first:
+      213: 4304917784261671949
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_32
+  - first:
+      213: 3391059926288964474
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_33
+  - first:
+      213: -5084945627840813171
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_34
+  - first:
+      213: -1763906521414522387
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_35
+  - first:
+      213: -6470679256730847190
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_36
+  - first:
+      213: 7442321492183185660
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_37
+  - first:
+      213: 2936612423345862361
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_38
+  - first:
+      213: 3469697656504364744
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_39
+  - first:
+      213: 4619511772440383414
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_40
+  - first:
+      213: 5417447049394803130
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_41
+  - first:
+      213: -6661056884484042909
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_42
+  - first:
+      213: 5271937479028694970
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_43
+  - first:
+      213: 9127362075123734912
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_44
+  - first:
+      213: -8888764388464780667
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_45
+  - first:
+      213: 5464751019379831842
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_46
+  - first:
+      213: -3333514267296257041
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_47
+  - first:
+      213: -6389232476407900635
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_48
+  - first:
+      213: 5544798288380325817
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_49
+  - first:
+      213: -6017571587721492498
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_50
+  - first:
+      213: -257449425032085602
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_51
+  - first:
+      213: -652762949001006865
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_52
+  - first:
+      213: -7642804471156550742
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_53
+  - first:
+      213: 3229561928418266657
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_54
+  - first:
+      213: 2728107714934407417
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_55
+  - first:
+      213: 4144475679976942919
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_56
+  - first:
+      213: -5630589515140705180
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_57
+  - first:
+      213: -2980904310846963523
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_58
+  - first:
+      213: -3732059394043862551
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_59
+  - first:
+      213: 3294995060007040510
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_60
+  - first:
+      213: 6105599230874648465
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_61
+  - first:
+      213: -2704643982085191171
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_62
+  - first:
+      213: 5633250360123614704
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_63
+  - first:
+      213: 4903021710625860678
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_64
+  - first:
+      213: 892537441218746043
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_65
+  - first:
+      213: 3635668325926084548
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_66
+  - first:
+      213: 1339378253011238230
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_67
+  - first:
+      213: -4084604578873607068
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_68
+  - first:
+      213: -1190180510517732188
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_69
+  - first:
+      213: 9113013113690412742
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_70
+  - first:
+      213: -7453394027141544853
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_71
+  - first:
+      213: 3762393484308793973
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_72
+  - first:
+      213: 7051245642091630221
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_73
+  - first:
+      213: -9100592817187539157
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_74
+  - first:
+      213: 8349563811910664608
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_75
+  - first:
+      213: -7218321085585932243
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_76
+  - first:
+      213: -4343473213312743704
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_77
+  - first:
+      213: -693890946808797478
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_78
+  - first:
+      213: 5102535042139254932
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_79
+  - first:
+      213: -8869174474744946506
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_80
+  - first:
+      213: 4277448544670327126
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_81
+  - first:
+      213: 8361680689180749841
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_82
+  - first:
+      213: -9141491570123649424
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_83
+  - first:
+      213: -5449021596015101790
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_84
+  - first:
+      213: 6566601914307992623
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_85
+  - first:
+      213: -7987791368003738150
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_86
+  - first:
+      213: -2174383739642617956
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_87
+  - first:
+      213: 286283297000476550
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_88
+  - first:
+      213: 8052677923215752562
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_89
+  - first:
+      213: 8697048495305685778
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_90
+  - first:
+      213: 2816571688724926086
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_91
+  - first:
+      213: 5118826359633609486
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_92
+  - first:
+      213: 1097643609649066311
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_93
+  - first:
+      213: -1568151246888108420
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_94
+  - first:
+      213: 2644549705335198429
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_95
+  - first:
+      213: -4222281945995382300
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_96
+  - first:
+      213: -4822609427027917816
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_97
+  - first:
+      213: 8660867594654422257
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_98
+  - first:
+      213: 2187603709170391054
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_99
+  - first:
+      213: 2557702524893318732
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_100
+  - first:
+      213: -78540396697666605
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_101
+  - first:
+      213: -2602504372384160939
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_102
+  - first:
+      213: 8246054637278296083
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_103
+  - first:
+      213: -3600232651427479891
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_104
+  - first:
+      213: -1759476175933405899
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_105
+  - first:
+      213: -3759500441052742633
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_106
+  - first:
+      213: 5657519598212355548
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_107
+  - first:
+      213: 3042560967714943539
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_108
+  - first:
+      213: 7319337188246464573
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_109
+  - first:
+      213: -5363677269514931614
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_110
+  - first:
+      213: 9212997993917789638
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_111
+  - first:
+      213: -4719180514095016778
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_112
+  - first:
+      213: -4175530763082366785
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_113
+  - first:
+      213: 4898238417177751816
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_114
+  - first:
+      213: -7716984445973542319
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_115
+  - first:
+      213: -583439447875657287
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_116
+  - first:
+      213: 3373682522465389087
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_117
+  - first:
+      213: 5874897536816429992
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_118
+  - first:
+      213: 8346969202953636462
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_119
+  - first:
+      213: 2905985112454527007
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_120
+  - first:
+      213: 6555411997362756014
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_121
+  - first:
+      213: 2540954417115434079
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_122
+  - first:
+      213: -7573388436158344764
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_123
+  - first:
+      213: 7147376064477929218
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_124
+  - first:
+      213: 5748548394192826070
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_125
+  - first:
+      213: 8725525952591052451
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_126
+  - first:
+      213: 3912800012542851063
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_127
+  - first:
+      213: 6332722625705560079
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_128
+  - first:
+      213: 3951269633871776293
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_129
+  - first:
+      213: 3713638226952680065
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_130
+  - first:
+      213: -2943927054357630222
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_131
+  - first:
+      213: -7595247149441957642
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_132
+  - first:
+      213: -4513398976831226944
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_133
+  - first:
+      213: 3238308753182530062
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_134
+  - first:
+      213: -4959683006264538935
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_135
+  - first:
+      213: -1577847893639633570
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_136
+  - first:
+      213: 5103783907330383050
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_137
+  - first:
+      213: 5606533749390101003
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_138
+  - first:
+      213: 5245539646927137950
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_139
+  - first:
+      213: -9762273515904607
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_140
+  - first:
+      213: -7639795038455627807
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_141
+  - first:
+      213: -7489698736145971661
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_142
+  - first:
+      213: 4688708380012286715
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_143
+  - first:
+      213: 8512848406816390629
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_144
+  - first:
+      213: -127416887950627030
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_145
+  - first:
+      213: -5033287691163324137
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_146
+  - first:
+      213: -3861437769954396153
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_147
+  - first:
+      213: 2547806000160339765
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_148
+  - first:
+      213: -8795655476705951759
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_149
+  - first:
+      213: -1893738599571104663
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_150
+  - first:
+      213: 2662323605202556820
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_151
+  - first:
+      213: 493312446430878699
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_152
+  - first:
+      213: 6562776167613113811
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_153
+  - first:
+      213: 6498698684553273366
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_154
+  - first:
+      213: 1327232010697909784
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_155
+  - first:
+      213: -6906719289226534175
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_156
+  - first:
+      213: 7441204276290186348
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_157
+  - first:
+      213: 4216833461970975602
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_158
+  - first:
+      213: -2769645422434011990
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_159
+  - first:
+      213: -2267422287016219973
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_160
+  - first:
+      213: -2080571668397751929
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_161
+  - first:
+      213: -7701099181536451188
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_162
+  - first:
+      213: -9134949464757926646
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_163
+  - first:
+      213: -5905666362523171155
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_164
+  - first:
+      213: -6447616329559141338
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_165
+  - first:
+      213: 795348191019395581
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_166
+  - first:
+      213: 4176458981445414865
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_167
+  - first:
+      213: -598413552327243569
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_168
+  - first:
+      213: 7785837748813907489
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_169
+  - first:
+      213: 6877685575071552078
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_170
+  - first:
+      213: -2489332944097206947
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_171
+  - first:
+      213: 926587193384858322
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_172
+  - first:
+      213: 2616267907319677373
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_173
+  - first:
+      213: -5396486861454629036
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_174
+  - first:
+      213: -22142118162837366
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_175
+  - first:
+      213: 1110137102905160654
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_176
+  - first:
+      213: -3493982528385816932
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_177
+  - first:
+      213: -2283599310296717958
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_178
+  - first:
+      213: -2031471796853727292
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_179
+  - first:
+      213: 5539457182045477905
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_180
+  - first:
+      213: 7003036357404537384
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_181
+  - first:
+      213: 2922883726770409047
+    second: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_182
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 796
+        width: 38
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a7c452ea7105f0800000000000000
+      internalID: -792216946936928486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 842
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f013d88a03c46e480800000000000000
+      internalID: -8870318644189646577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 842
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bd03e159745e520800000000000000
+      internalID: 2730667454852291419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 842
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8994b8f5604f920800000000000000
+      internalID: 3023048257300961517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 842
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998462be9d6d62b70800000000000000
+      internalID: 8874016347221543065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 842
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a134455f443e80800000000000000
+      internalID: -8199841793899912339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 842
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e52cf0a1db3e90800000000000000
+      internalID: -7044806702735694841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_7
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 842
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9272f2f124105cf00800000000000000
+      internalID: 1136315864483571497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_8
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 871
+        width: 43
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657e750c3991a86c0800000000000000
+      internalID: -4140468785035876522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_9
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 984
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd9dce6728dc32b0800000000000000
+      internalID: -5603366172481446459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_10
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 859
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938c1c308024e030800000000000000
+      internalID: 3522976543646974866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_11
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 861
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e4d524a835e7e0800000000000000
+      internalID: -1736919803620956333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_12
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 846
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ed2efca943c0490800000000000000
+      internalID: -7778784616858329549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 687
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3818ae88b475e3940800000000000000
+      internalID: 5277751795256033667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 816
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772079374db93e7a0800000000000000
+      internalID: -6349059712887618953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 824
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c765091e5457060800000000000000
+      internalID: 6950538435007773764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 790
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4ece83501544a0800000000000000
+      internalID: -6609858927032119622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 819
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7322528fa7621c3b0800000000000000
+      internalID: -5494067760824245705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 826
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebba2803f7ef7cb0800000000000000
+      internalID: -4863914041536758811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 740
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ac0ad2eed265ce0800000000000000
+      internalID: -1416894531770463610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_20
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 740
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6294ad5fc1d6a990800000000000000
+      internalID: -7374976651213106582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_21
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 740
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e835f9659392c20800000000000000
+      internalID: 3182137655916990004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_22
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 746
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1808681f3c7f710800000000000000
+      internalID: 1727064424230977980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 758
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd5faede504f9c30800000000000000
+      internalID: 4368280939779808734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 749
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb4320d5fabd170800000000000000
+      internalID: 8204343960189320409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 763
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8d981391285f00800000000000000
+      internalID: 1105670624176344973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 745
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d65774f43b14500800000000000000
+      internalID: 378780996758498620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 711
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491aa0a1cc74b16a0800000000000000
+      internalID: -6477504697106521708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 760
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d60b7850cfbae0800000000000000
+      internalID: -1531293862028978651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_29
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 772
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf49c024283f3f980800000000000000
+      internalID: -8506187530393316101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 720
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369fe9bd90b7cf90800000000000000
+      internalID: -6933378909837748684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 703
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22d9875c4ca5cb70800000000000000
+      internalID: 8918724080963277354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 719
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cbd269ae32ebb30800000000000000
+      internalID: 4304917784261671949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 732
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b148e49077f0f20800000000000000
+      internalID: 3391059926288964474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_34
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 719
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876f5684e4ae69b0800000000000000
+      internalID: -5084945627840813171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_35
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 704
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a7164d585587e0800000000000000
+      internalID: -1763906521414522387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_36
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 704
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b117cf778336a0800000000000000
+      internalID: -6470679256730847190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 717
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf875dd47ff684760800000000000000
+      internalID: 7442321492183185660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 681
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d67780b071f0c820800000000000000
+      internalID: 2936612423345862361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 683
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cea2f5a2a7d62030800000000000000
+      internalID: 3469697656504364744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 683
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4b085b7dcb1040800000000000000
+      internalID: 4619511772440383414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 532
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab15aa87363ae2b40800000000000000
+      internalID: 5417447049394803130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 601
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f88ab2e0c2f83a0800000000000000
+      internalID: -6661056884484042909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_43
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 604
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfd29b843fa92940800000000000000
+      internalID: 5271937479028694970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 605
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0895f10d277eaae70800000000000000
+      internalID: 9127362075123734912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_45
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 607
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a1a6522e3c4a480800000000000000
+      internalID: -8888764388464780667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 608
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b6104912b6db40800000000000000
+      internalID: 5464751019379831842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_47
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 608
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb2c148f6afcb1d0800000000000000
+      internalID: -3333514267296257041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_48
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 608
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52651501ae2e457a0800000000000000
+      internalID: -6389232476407900635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_49
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 608
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf6a1a6aa413fc40800000000000000
+      internalID: 5544798288380325817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 644
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7806ff58a4d7ca0800000000000000
+      internalID: -6017571587721492498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 646
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f7559ac1b5d6cf0800000000000000
+      internalID: -257449425032085602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 609
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0324e6e8be0f6f0800000000000000
+      internalID: -652762949001006865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 609
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa352f8a3dd4fe590800000000000000
+      internalID: -7642804471156550742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 609
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0f738675b1dc20800000000000000
+      internalID: 3229561928418266657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 574
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00ba9338f2cd520800000000000000
+      internalID: 2728107714934407417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 575
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d654d2ca2248930800000000000000
+      internalID: 4144475679976942919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 577
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464dff90ba02cd1b0800000000000000
+      internalID: -5630589515140705180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 500
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04982a253b1a6d0800000000000000
+      internalID: -2980904310846963523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_59
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 505
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12b5121cf053cc0800000000000000
+      internalID: -3732059394043862551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_60
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 510
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f268ac8c2abd20800000000000000
+      internalID: 3294995060007040510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_61
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 519
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7e21d6227bb450800000000000000
+      internalID: 6105599230874648465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_62
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 519
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90aebc0ac277ad0800000000000000
+      internalID: -2704643982085191171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 519
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f562063b535d2e40800000000000000
+      internalID: 5633250360123614704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_64
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 520
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce1ebb4480b0440800000000000000
+      internalID: 4903021710625860678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_65
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 520
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6549ce21ee26c00800000000000000
+      internalID: 892537441218746043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_66
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 558
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf96ff641d747230800000000000000
+      internalID: 3635668325926084548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 540
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3e9ebc6d669210800000000000000
+      internalID: 1339378253011238230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 506
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cfd44d6c19057c0800000000000000
+      internalID: -4084604578873607068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 507
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac5ffba121ab7fe0800000000000000
+      internalID: -1190180510517732188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 514
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c65ef2e42de77e70800000000000000
+      internalID: 9113013113690412742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 483
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c5314f99309890800000000000000
+      internalID: -7453394027141544853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_72
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 434
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a4871a0f4b63430800000000000000
+      internalID: 3762393484308793973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_73
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 434
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e84e86d8e0bd160800000000000000
+      internalID: 7051245642091630221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_74
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 434
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27b01ebc0334b180800000000000000
+      internalID: -9100592817187539157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_75
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 434
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1446e8c0c9fd370800000000000000
+      internalID: 8349563811910664608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_76
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 436
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2040fa873f53db90800000000000000
+      internalID: -7218321085585932243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_77
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 436
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c11d0022e8b3c0800000000000000
+      internalID: -4343473213312743704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 475
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62a9a3cddce56f0800000000000000
+      internalID: -693890946808797478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_79
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 440
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49071b02698dfc640800000000000000
+      internalID: 5102535042139254932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 407
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0addd5ecc5ae480800000000000000
+      internalID: -8869174474744946506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_81
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 398
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651261ad9cc8c5b30800000000000000
+      internalID: 4277448544670327126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_82
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 406
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110bcd3e848aa0470800000000000000
+      internalID: 8361680689180749841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_83
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 415
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4d85c9d5e22180800000000000000
+      internalID: -9141491570123649424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a876148abf2164b0800000000000000
+      internalID: -5449021596015101790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 410
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c5ab356a1412b50800000000000000
+      internalID: 6566601914307992623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 415
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5a43a621aa52190800000000000000
+      internalID: -7987791368003738150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_87
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 351
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f5739528903d1e0800000000000000
+      internalID: -2174383739642617956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_88
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 353
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f47de442519f300800000000000000
+      internalID: 286283297000476550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_89
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 358
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27db7eff7ebd0cf60800000000000000
+      internalID: 8052677923215752562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_90
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 358
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b7a0d078f12b870800000000000000
+      internalID: 8697048495305685778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_91
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 358
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e0fde2709761720800000000000000
+      internalID: 2816571688724926086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_92
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 358
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e030ed01479b90740800000000000000
+      internalID: 5118826359633609486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_93
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 387
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413c132c0d9b3f00800000000000000
+      internalID: 1097643609649066311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef527dfbecc3ae0800000000000000
+      internalID: -1568151246888108420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 378
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd25e5112f353b420800000000000000
+      internalID: 2644549705335198429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_96
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 285
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e17663d0f07765c0800000000000000
+      internalID: -4222281945995382300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 297
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040d830746a21db0800000000000000
+      internalID: -4822609427027917816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_98
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 309
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4911aa035913870800000000000000
+      internalID: 8660867594654422257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_99
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 322
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e089d6aabfdeb5e10800000000000000
+      internalID: 2187603709170391054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 346
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec26525e8ce7320800000000000000
+      internalID: 2557702524893318732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_101
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 346
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3152ece7f8eef0800000000000000
+      internalID: -78540396697666605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_102
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 349
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55324addf0c02ebd0800000000000000
+      internalID: -2602504372384160939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_103
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 274
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3187f6dc00fdf6270800000000000000
+      internalID: 8246054637278296083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_104
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 282
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef6e67a77690ec0800000000000000
+      internalID: -3600232651427479891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_105
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 284
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5350ab67db51597e0800000000000000
+      internalID: -1759476175933405899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_106
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 284
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c702e744293dbc0800000000000000
+      internalID: -3759500441052742633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_107
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 284
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51249891c838e40800000000000000
+      internalID: 5657519598212355548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 314
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3323e187419593a20800000000000000
+      internalID: 3042560967714943539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 315
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38acb8a462839560800000000000000
+      internalID: 7319337188246464573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_110
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 230
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262b9bcf0f36095b0800000000000000
+      internalID: -5363677269514931614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_111
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 268
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53bd7ecd42bdf70800000000000000
+      internalID: 9212997993917789638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 283
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4db62635a128eb0800000000000000
+      internalID: -4719180514095016778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_113
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 198
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb082c5d4e88d06c0800000000000000
+      internalID: -4175530763082366785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_114
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8013d0173e90af340800000000000000
+      internalID: 4898238417177751816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a48806883c7e490800000000000000
+      internalID: -7716984445973542319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_116
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 172
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1eb61d9e437e7f0800000000000000
+      internalID: -583439447875657287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_117
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 185
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4e70316ab1de20800000000000000
+      internalID: 3373682522465389087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_118
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 195
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abb2c5ee24d78150800000000000000
+      internalID: 5874897536816429992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_119
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 209
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a4d25144466d370800000000000000
+      internalID: 8346969202953636462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_120
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 210
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18fc6e2012245820800000000000000
+      internalID: 2905985112454527007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_121
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 211
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea91423ca7089fa50800000000000000
+      internalID: 6555411997362756014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_122
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 230
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c00ae6498434320800000000000000
+      internalID: 2540954417115434079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c11bb4c75be5e690800000000000000
+      internalID: -7573388436158344764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_124
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 224
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f165789a4903360800000000000000
+      internalID: 7147376064477929218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_125
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 138
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6102be42f6cf40800000000000000
+      internalID: 5748548394192826070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae34a2cf9b471970800000000000000
+      internalID: 8725525952591052451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_127
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 196
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7b2c861ee0d4630800000000000000
+      internalID: 3912800012542851063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_128
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 118
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0842460da952e750800000000000000
+      internalID: 6332722625705560079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_129
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 153
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a07ba1ccab5d630800000000000000
+      internalID: 3951269633871776293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_130
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 145
+        width: 135
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18273ddaa4e798330800000000000000
+      internalID: 3713638226952680065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_131
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 162
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2f95011f11527d0800000000000000
+      internalID: -2943927054357630222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_132
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 162
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c63c75f2489690800000000000000
+      internalID: -7595247149441957642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_133
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 162
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbfc582b8f2d51c0800000000000000
+      internalID: -4513398976831226944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_134
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a9b7a57a8c0fc20800000000000000
+      internalID: 3238308753182530062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_135
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 169
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88f05559aab2bb0800000000000000
+      internalID: -4959683006264538935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_136
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e20653bb5a1ae0800000000000000
+      internalID: -1577847893639633570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_137
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 99
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc58c63c6844d640800000000000000
+      internalID: 5103783907330383050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_138
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 102
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac2a98db86ecd40800000000000000
+      internalID: 5606533749390101003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_139
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 116
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce15e4486ebc840800000000000000
+      internalID: 5245539646927137950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a162e293415ddff0800000000000000
+      internalID: -9762273515904607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_141
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 140
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef7f00d3eef9f590800000000000000
+      internalID: -7639795038455627807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_142
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 140
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c35d7eae3f0890800000000000000
+      internalID: -7489698736145971661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_143
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 97
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf297060e63a11140800000000000000
+      internalID: 4688708380012286715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_144
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 81
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed7a03e586b32670800000000000000
+      internalID: 8512848406816390629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_145
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 115
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2157f3035b3ef0800000000000000
+      internalID: -127416887950627030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_146
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 115
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113ddb238b262ab0800000000000000
+      internalID: -5033287691163324137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_147
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 115
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70877979eca696ac0800000000000000
+      internalID: -3861437769954396153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5377a2cee00ab5320800000000000000
+      internalID: 2547806000160339765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_149
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 114
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff83002fd8fe580800000000000000
+      internalID: -8795655476705951759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_150
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 116
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c5e13f6c618b5e0800000000000000
+      internalID: -1893738599571104663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_151
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 51
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975c3d963972f420800000000000000
+      internalID: 2662323605202556820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb9acc6e0998d600800000000000000
+      internalID: 493312446430878699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_153
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 93
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5aaf2472aa31b50800000000000000
+      internalID: 6562776167613113811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_154
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610a813a504003a50800000000000000
+      internalID: 6498698684553273366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_155
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8162d245b764b6210800000000000000
+      internalID: 1327232010697909784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_156
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 35
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2605a56676620a0800000000000000
+      internalID: -6906719289226534175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_157
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 40
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ce4653dd7744760800000000000000
+      internalID: 7441204276290186348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_158
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 42
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bb2c121b3358a30800000000000000
+      internalID: 4216833461970975602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_159
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 68
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4b80a992e3099d0800000000000000
+      internalID: -2769645422434011990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_160
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 69
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba289a717f7880e0800000000000000
+      internalID: -2267422287016219973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_161
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 71
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781096747135023e0800000000000000
+      internalID: -2080571668397751929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_162
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85e778b813302590800000000000000
+      internalID: -7701099181536451188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_163
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0585ff5cd32a3180800000000000000
+      internalID: -9134949464757926646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_164
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da645db9bbbda0ea0800000000000000
+      internalID: -5905666362523171155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6249e94fb177586a0800000000000000
+      internalID: -6447616329559141338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_166
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e57e37f4a90b00800000000000000
+      internalID: 795348191019395581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_167
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df2b08d053c5f930800000000000000
+      internalID: 4176458981445414865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_168
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 4
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc841c07b0202b7f0800000000000000
+      internalID: -598413552327243569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_169
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 27
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12641e07e2adc0c60800000000000000
+      internalID: 7785837748813907489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_170
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 33
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d7fa4792727f50800000000000000
+      internalID: 6877685575071552078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_171
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 22
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d986b50ec147dd0800000000000000
+      internalID: -2489332944097206947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_172
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 25
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d27123a426ebdc00800000000000000
+      internalID: 926587193384858322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_173
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db14b05dcc9de4420800000000000000
+      internalID: 2616267907319677373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_174
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 38
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4572fe39ac3db15b0800000000000000
+      internalID: -5396486861454629036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_175
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8054506cd551bff0800000000000000
+      internalID: -22142118162837366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_176
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3b4a630dff76f00800000000000000
+      internalID: 1110137102905160654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_177
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9664200761e28fc0800000000000000
+      internalID: -3493982528385816932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_178
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ef6cb6860f40e0800000000000000
+      internalID: -2283599310296717958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_179
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1f49f923cec3e0800000000000000
+      internalID: -2031471796853727292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_180
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9e4035fa10ec40800000000000000
+      internalID: 5539457182045477905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_181
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8223e30a678cf2160800000000000000
+      internalID: 7003036357404537384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEY0.CC-Angry-Birds-1-Angry-Birds-Ingame-Birds (1)_182
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8bed634b209820800000000000000
+      internalID: 2922883726770409047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
