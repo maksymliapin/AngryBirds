@@ -8,6 +8,7 @@ namespace Game
 {
     public class EndGameController : MonoBehaviour
     {
+        public static bool isGameFinished;
         [SerializeField] private DataSettings settings;
         [SerializeField] private GameObject firstStar;
         [SerializeField] private GameObject secondStar;
@@ -32,9 +33,10 @@ namespace Game
         }
         void Update()
         {
-            if (GameController.runningBirdsCounter == numberBirds || Pig.deadPigCounter == numberPigs)
+            if (GameController.runningBirdsCounter == numberBirds || Pig.deadPigCounter == numberPigs && isGameFinished != true)
             {
                 StartCoroutine("HoldUpTimeOne");
+                isGameFinished = true;
             }
         }
         public IEnumerator HoldUpTimeOne()
