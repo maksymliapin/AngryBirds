@@ -1,18 +1,23 @@
+using Game;
+using Settings;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class AttemptsCounter : MonoBehaviour
+namespace UI
 {
-    public Text counter;
-    [SerializeField] private DataSettings setiings;
-    private int numberAttempts; 
-    void Start()
+    public class AttemptsCounter : MonoBehaviour
     {
-        numberAttempts = setiings.numberBirds;
-    }
-    void Update()
-    {
-        var attempts = numberAttempts - Game—ontroller.runningBirdsCounter;
-        counter.text = attempts.ToString();
+        public Text counter;
+        [SerializeField] private DataSettings setiings;
+        private int numberAttempts;
+        void Start()
+        {
+            numberAttempts = setiings.numberBirds;
+        }
+        void Update()
+        {
+            var attempts = numberAttempts - GameController.runningBirdsCounter;
+            counter.text = attempts.ToString();
+        }
     }
 }

@@ -1,11 +1,13 @@
-
-public class BaleenPig : Pig
+namespace Pigs
 {
-    private float baleenPigArmor = 2f;
-    private int baleenPigPoints = 400;
-    void Start()
+    public class BaleenPig : Pig
     {
-        pigArmor += baleenPigArmor;
-        pigPoints = baleenPigPoints;
+        private float baleenPigArmor = 2f;
+        private int baleenPigPoints = 400;
+        void Start()
+        {
+            pigArmor += baleenPigArmor;
+            pigPoints = baleenPigPoints;
+        }
     }
 }
