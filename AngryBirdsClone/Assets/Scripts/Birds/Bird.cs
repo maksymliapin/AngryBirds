@@ -8,9 +8,10 @@ namespace Birds
     public class Bird : MonoBehaviour
     {
         public Vector3 startingPosition;
-        public const float timeDestroyBird = 3.0f;
-        public const float timeRespawnBird = 3.0f;
         [SerializeField] private DataSettings settings;
+        private float timeDestroyBird = 3.0f;
+        private float timeRespawnBird = 3.0f;
+        private float delay = 2.0f;
         private int numberBirds;
         private void Start()
         {
@@ -27,7 +28,7 @@ namespace Birds
             }
             if (EndGameController.isGameFinished == true && gameObject != null)
             {
-                Destroy(gameObject);
+                Destroy(gameObject, delay);
                 EndGameController.isGameFinished = false;
             }
         }

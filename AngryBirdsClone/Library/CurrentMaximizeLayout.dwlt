@@ -22,10 +22,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 479, y: 363}
-  m_MaxSize: {x: 12004, y: 12063}
+  m_MinSize: {x: 609, y: 513}
+  m_MaxSize: {x: 18004, y: 18063}
   vertical: 0
-  controlID: 8000
+  controlID: 2358
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: fafafffff643000036440000
+      m_ExpandedIDs: 40fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -217,10 +217,10 @@ MonoBehaviour:
     y: 0
     width: 1093
     height: 947
-  m_MinSize: {x: 102, y: 363}
-  m_MaxSize: {x: 4002, y: 12063}
+  m_MinSize: {x: 232, y: 513}
+  m_MaxSize: {x: 10002, y: 18063}
   vertical: 1
-  controlID: 8001
+  controlID: 2359
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -555,7 +555,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -564,15 +564,15 @@ MonoBehaviour:
     y: 676
     width: 1093
     height: 271
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 12}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 12}
   - {fileID: 13}
   - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -649,9 +649,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 14}
-    m_SelectedIDs: e8460000
-    m_LastClickedID: 18152
-    m_ExpandedIDs: 00000000d846000000ca9a3b
+    m_SelectedIDs: ee460000
+    m_LastClickedID: 18158
+    m_ExpandedIDs: 00000000da46000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -679,7 +679,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 243d0000
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d846000000ca9a3b
+    m_ExpandedIDs: 00000000da46000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -706,7 +706,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 520c0000
     m_LastClickedInstanceID: 3154
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: d84300002c6d00008658000080580000ca6a0000c66a0000d2430000d4430000a6440000000000002ad402000e45000010450000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
