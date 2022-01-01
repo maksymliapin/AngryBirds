@@ -54,10 +54,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\UI\ButtonPlay.cs" />
-    <Compile Include="Assets\ScriptableObjects\DataSettings.cs" />
+    <Compile Include="Assets\Settings\DataSettings.cs" />
     <Compile Include="Assets\Scripts\UI\Score.cs" />
     <Compile Include="Assets\Scripts\Pigs\ProtectedPig.cs" />
-    <Compile Include="Assets\Scripts\Game\GameСontroller.cs" />
+    <Compile Include="Assets\Scripts\Game\GameController.cs" />
     <Compile Include="Assets\Scripts\UI\AttemptsCounter.cs" />
     <Compile Include="Assets\Scripts\UI\ButtonHome.cs" />
     <Compile Include="Assets\Scripts\Pigs\BaleenPig.cs" />

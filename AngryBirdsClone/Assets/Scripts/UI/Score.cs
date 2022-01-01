@@ -1,21 +1,24 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Score : MonoBehaviour
+namespace UI
 {
-    public static int score;
-    public static int bestScore;
-    [SerializeField] private Text textBestScoreEndGame;
-    [SerializeField] private Text textScoreEndGame;
-    [SerializeField] private Text textScore;
-    private void Update()
+    public class Score : MonoBehaviour
     {
-        textScore.text = "Score: " + score.ToString();
-        textScoreEndGame.text = textScore.text;
-        if (score > bestScore)
+        public static int score;
+        public static int bestScore;
+        [SerializeField] private Text textBestScoreEndGame;
+        [SerializeField] private Text textScoreEndGame;
+        [SerializeField] private Text textScore;
+        private void Update()
         {
-            bestScore = score;
+            textScore.text = "Score: " + score.ToString();
+            textScoreEndGame.text = textScore.text;
+            if (score > bestScore)
+            {
+                bestScore = score;
+            }
+            textBestScoreEndGame.text = "Best Score: " + bestScore.ToString();
         }
-        textBestScoreEndGame.text = "Best Score: " + bestScore.ToString();
     }
 }

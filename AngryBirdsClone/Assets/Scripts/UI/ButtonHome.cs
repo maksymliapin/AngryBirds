@@ -1,20 +1,26 @@
+using Game;
+using Pigs;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ButtonHome : MonoBehaviour
+namespace UI
 {
-    private float changeSizeButton = 1.2f;
-    private void OnMouseDown()
+    public class ButtonHome : MonoBehaviour
     {
-        transform.localScale *= changeSizeButton;
-    }
-    private void OnMouseUp()
-    {
-        transform.localScale /= changeSizeButton;
-        Score.score = 0;
-        Game—ontroller.runningBirdsCounter = 0;
-        Pig.deadPigCounter = 0;
-        Game—ontroller.isSlingshotFired = false;
-        SceneManager.LoadScene("SampleScene");
+        private float changeSizeButton = 1.2f;
+        private void OnMouseDown()
+        {
+            transform.localScale *= changeSizeButton;
+        }
+        private void OnMouseUp()
+        {
+            transform.localScale /= changeSizeButton;
+            Score.score = 0;
+            GameController.runningBirdsCounter = 0;
+            Pig.deadPigCounter = 0;
+            GameController.isSlingshotFired = false;
+            SceneManager.LoadScene("SampleScene");
+            EndGameController.isGameFinished = false;
+        }
     }
 }

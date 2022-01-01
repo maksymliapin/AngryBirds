@@ -1,11 +1,13 @@
-
-public class KingPig : Pig
+namespace Pigs
 {
-    private float kingPigArmor = 3f;
-    private int kingPigPoints = 500;
-    void Start()
+    public class KingPig : Pig
     {
-        pigArmor += kingPigArmor;
-        pigPoints = kingPigPoints;
+        private float kingPigArmor = 3f;
+        private int kingPigPoints = 500;
+        void Start()
+        {
+            pigArmor += kingPigArmor;
+            pigPoints = kingPigPoints;
+        }
     }
 }

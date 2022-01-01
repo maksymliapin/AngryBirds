@@ -1,34 +1,44 @@
+using Game;
+using Settings;
 using System.Collections;
 using UnityEngine;
 
-public class Bird : MonoBehaviour
+namespace Birds
 {
-    public Vector3 startingPosition;
-    public const float timeDestroyBird = 3.0f;
-    public const float timeRespawnBird = 2.0f;
-    [SerializeField] private  DataSettings settings;
-    private int numberBirds;
-    private void Start()
+    public class Bird : MonoBehaviour
     {
-        numberBirds = settings.numberBirds;
-        startingPosition = transform.position;
-        gameObject.GetComponent<Rigidbody2D>().isKinematic = true;
-    }
-    private void Update()
-    {
-        if (Game—ontroller.runningBirdsCounter < numberBirds && Game—ontroller.isSlingshotFired)
+        public Vector3 startingPosition;
+        public const float timeDestroyBird = 3.0f;
+        public const float timeRespawnBird = 3.0f;
+        [SerializeField] private DataSettings settings;
+        private int numberBirds;
+        private void Start()
         {
-            StartCoroutine("RebornWait");
-            Game—ontroller.isSlingshotFired = false;
+            numberBirds = settings.numberBirds;
+            startingPosition = transform.position;
+            gameObject.GetComponent<Rigidbody2D>().isKinematic = true;
         }
-    }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        Destroy(gameObject, timeDestroyBird);
-    }
-    public IEnumerator RebornWait()
-    {
-        yield return new WaitForSeconds(timeRespawnBird);
-        Instantiate(gameObject, startingPosition, Quaternion.identity);
+        private void Update()
+        {
+            if (GameController.runningBirdsCounter < numberBirds && GameController.isSlingshotFired)
+            {
+                StartCoroutine("RebornWait");
+                GameController.isSlingshotFired = false;
+            }
+            if (EndGameController.isGameFinished == true && gameObject != null)
+            {
+                Destroy(gameObject);
+                EndGameController.isGameFinished = false;
+            }
+        }
+        private void OnCollisionEnter2D(Collision2D collision)
+        {
+            Destroy(gameObject, timeDestroyBird);
+        }
+        public IEnumerator RebornWait()
+        {
+            yield return new WaitForSeconds(timeRespawnBird);
+            Instantiate(gameObject, startingPosition, Quaternion.identity);
+        }
     }
 }
