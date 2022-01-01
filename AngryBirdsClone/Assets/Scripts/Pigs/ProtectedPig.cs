@@ -1,11 +1,13 @@
-
-public class ProtectedPig : Pig
+namespace Pigs
 {
-    private float protectedPigArmor = 2f;
-    private int protectedPigPoints = 250;
-    void Start()
+    public class ProtectedPig : Pig
     {
-        pigArmor += protectedPigArmor;
-        pigPoints = protectedPigPoints;
+        private float protectedPigArmor = 2f;
+        private int protectedPigPoints = 250;
+        void Start()
+        {
+            pigArmor += protectedPigArmor;
+            pigPoints = protectedPigPoints;
+        }
     }
 }

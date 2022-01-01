@@ -4128,11 +4128,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1398642676}
   - component: {fileID: 1398642675}
-  - component: {fileID: 1398642677}
   - component: {fileID: 1398642678}
   - component: {fileID: 1398642679}
   - component: {fileID: 1398642680}
   - component: {fileID: 1398642681}
+  - component: {fileID: 1398642677}
   m_Layer: 0
   m_Name: Scene
   m_TagString: Untagged

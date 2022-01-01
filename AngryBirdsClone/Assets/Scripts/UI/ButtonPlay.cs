@@ -1,22 +1,25 @@
 using UnityEngine;
 
-public class ButtonPlay : MonoBehaviour
+namespace UI
 {
-    [SerializeField] private GameObject startMenu;
-    [SerializeField] private GameObject bird;
-    [SerializeField] private GameObject scene;
-    [SerializeField] private GameObject score;
-    private float changeSizeButton = 1.2f;
-    private void OnMouseDown()
+    public class ButtonPlay : MonoBehaviour
     {
-        transform.localScale = transform.localScale * changeSizeButton;
-    }
-    private void OnMouseUp()
-    {
-        transform.localScale = transform.localScale /changeSizeButton;
-        startMenu.SetActive(false);
-        bird.SetActive(false);
-        scene.SetActive(true);
-        score.SetActive(true);
+        [SerializeField] private GameObject startMenu;
+        [SerializeField] private GameObject bird;
+        [SerializeField] private GameObject scene;
+        [SerializeField] private GameObject score;
+        private float changeSizeButton = 1.2f;
+        private void OnMouseDown()
+        {
+            transform.localScale = transform.localScale * changeSizeButton;
+        }
+        private void OnMouseUp()
+        {
+            transform.localScale = transform.localScale / changeSizeButton;
+            startMenu.SetActive(false);
+            bird.SetActive(false);
+            scene.SetActive(true);
+            score.SetActive(true);
+        }
     }
 }
