@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Data
   m_EditorClassIdentifier: 
   numberBirds: 4
-  slingshotPower: 900
+  slingshotPower: 1200
   pigArmor: 3
   firstStarPoints: 0
   secondStarPoints: 1500
