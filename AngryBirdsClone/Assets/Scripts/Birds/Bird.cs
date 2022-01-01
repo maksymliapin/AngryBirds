@@ -25,6 +25,11 @@ namespace Birds
                 StartCoroutine("RebornWait");
                 GameController.isSlingshotFired = false;
             }
+            if (EndGameController.isGameFinished == true && gameObject != null)
+            {
+                Destroy(gameObject);
+                EndGameController.isGameFinished = false;
+            }
         }
         private void OnCollisionEnter2D(Collision2D collision)
         {

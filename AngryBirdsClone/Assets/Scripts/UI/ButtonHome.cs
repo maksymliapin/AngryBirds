@@ -20,6 +20,7 @@ namespace UI
             Pig.deadPigCounter = 0;
             GameController.isSlingshotFired = false;
             SceneManager.LoadScene("SampleScene");
+            EndGameController.isGameFinished = false;
         }
     }
 }
