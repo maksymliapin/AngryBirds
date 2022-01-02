@@ -12,13 +12,36 @@ namespace Game
         private Bird selectedBird;
         private float slingshotPower;
         private float maxTensionForward = -4f;
+        private Vector3 cursor;
         private void Start()
         {
             slingshotPower = settings.slingshotPower;
         }
         private void Update()
         {
-            var cursor = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            cursor = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            SelectBird();
+            if (selectedBird != null)
+            {
+                MoveBird(cursor);
+                RotateBird(selectedBird);
+                if (selectedBird.transform.position.x >= maxTensionForward)
+                {
+                    ShootBird();
+                    selectedBird = null;
+                }
+            }
+            if (Input.GetMouseButtonUp(0))
+            {
+                if (selectedBird != null)
+                {
+                    ShootBird();
+                }
+                selectedBird = null;
+            }
+        }
+        private void SelectBird()
+        {
             if (Input.GetMouseButtonDown(0) && selectedBird == null)
             {
                 Collider2D[] selectedColliders = Physics2D.OverlapCircleAll(cursor, 0.1f);
@@ -31,24 +54,6 @@ namespace Game
                     }
                 }
             }
-            if (selectedBird != null)
-            {
-                MoveBird(cursor);
-                RotateBird(selectedBird);
-                if ( selectedBird.transform.position.x >= maxTensionForward)
-                {
-                    shootBird();
-                    selectedBird = null;
-                }
-            }
-            if (Input.GetMouseButtonUp(0))
-            {
-                if (selectedBird != null)
-                {
-                    shootBird();
-                }
-                selectedBird = null;
-            }
         }
         private void RotateBird(Bird bird)
         {
@@ -60,7 +65,7 @@ namespace Game
         {
             selectedBird.transform.position = Vector2.MoveTowards(selectedBird.transform.position, new Vector2(cursor.x, cursor.y), Time.deltaTime * 5.0f);
         }
-        private void shootBird()
+        private void ShootBird()
         {
             var body = selectedBird.GetComponent<Rigidbody2D>();
             body.isKinematic = false;

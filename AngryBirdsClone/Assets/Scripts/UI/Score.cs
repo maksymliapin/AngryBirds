@@ -12,8 +12,16 @@ namespace UI
         [SerializeField] private Text textScore;
         private void Update()
         {
+            ShowScore();
+            ShowBestScore();
+        }
+        private void ShowScore()
+        {
             textScore.text = "Score: " + score.ToString();
             textScoreEndGame.text = textScore.text;
+        }
+        private void ShowBestScore()
+        {
             if (score > bestScore)
             {
                 bestScore = score;

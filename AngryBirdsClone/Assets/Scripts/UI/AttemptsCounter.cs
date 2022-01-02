@@ -16,6 +16,10 @@ namespace UI
         }
         void Update()
         {
+            ShowAttempts();
+        }
+        private void ShowAttempts()
+        {
             var attempts = numberAttempts - GameController.runningBirdsCounter;
             counter.text = attempts.ToString();
         }

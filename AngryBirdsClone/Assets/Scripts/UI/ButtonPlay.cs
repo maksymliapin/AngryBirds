@@ -11,11 +11,15 @@ namespace UI
         private float changeSizeButton = 1.2f;
         private void OnMouseDown()
         {
-            transform.localScale = transform.localScale * changeSizeButton;
+            transform.localScale *= changeSizeButton;
         }
         private void OnMouseUp()
         {
-            transform.localScale = transform.localScale / changeSizeButton;
+            transform.localScale /= changeSizeButton;
+            StartGame();
+        }
+        private void StartGame()
+        {
             startMenu.SetActive(false);
             bird.SetActive(false);
             scene.SetActive(true);
