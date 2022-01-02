@@ -11,6 +11,7 @@ namespace Game
         [SerializeField] private DataSettings settings;
         private Bird selectedBird;
         private float slingshotPower;
+        private float maxTensionForward = -4f;
         private void Start()
         {
             slingshotPower = settings.slingshotPower;
@@ -34,17 +35,17 @@ namespace Game
             {
                 MoveBird(cursor);
                 RotateBird(selectedBird);
+                if ( selectedBird.transform.position.x >= maxTensionForward)
+                {
+                    shootBird();
+                    selectedBird = null;
+                }
             }
             if (Input.GetMouseButtonUp(0))
             {
                 if (selectedBird != null)
                 {
-                    var body = selectedBird.GetComponent<Rigidbody2D>();
-                    body.isKinematic = false;
-                    body.AddForce(new Vector2(selectedBird.startingPosition.x - selectedBird.transform.position.x, selectedBird.startingPosition.y - selectedBird.transform.position.y) * slingshotPower);
-                    GetComponent<AudioSource>().PlayDelayed(0);
-                    isSlingshotFired = true;
-                    runningBirdsCounter++;
+                    shootBird();
                 }
                 selectedBird = null;
             }
@@ -58,6 +59,22 @@ namespace Game
         private void MoveBird(Vector3 cursor)
         {
             selectedBird.transform.position = Vector2.MoveTowards(selectedBird.transform.position, new Vector2(cursor.x, cursor.y), Time.deltaTime * 5.0f);
+        }
+        private void shootBird()
+        {
+            var body = selectedBird.GetComponent<Rigidbody2D>();
+            body.isKinematic = false;
+            if (selectedBird.transform.position.x >= maxTensionForward)
+            {
+                body.AddForce(new Vector2(selectedBird.startingPosition.x + selectedBird.transform.position.x, selectedBird.startingPosition.y + selectedBird.transform.position.y) * slingshotPower);
+            }
+            else if (selectedBird.transform.position.x < maxTensionForward)
+            {
+                body.AddForce(new Vector2(selectedBird.startingPosition.x - selectedBird.transform.position.x, selectedBird.startingPosition.y - selectedBird.transform.position.y) * slingshotPower);
+            }
+            GetComponent<AudioSource>().PlayDelayed(0);
+            isSlingshotFired = true;
+            runningBirdsCounter++;
         }
     }
 }
