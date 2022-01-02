@@ -6,11 +6,11 @@ namespace Pigs
 {
     public class Pig : MonoBehaviour
     {
-        public int numberPigs = 12;
-        public int pigPoints = 100;
-        public float pigArmor;
-        public const float timeDestroyBlast = 2.0f;
         static public int deadPigCounter;
+        public int numberPigs = 12;
+        protected int pigPoints = 100;
+        protected float pigArmor;
+        protected const float timeDestroyBlast = 2.0f;
         [SerializeField] private DataSettings settings;
         [SerializeField] private GameObject blast;
         private bool isPigDied;
@@ -22,13 +22,17 @@ namespace Pigs
         {
             if (collision.relativeVelocity.magnitude > pigArmor && isPigDied == false)
             {
-                isPigDied = true;
-                Destroy(gameObject);
-                Score.score += pigPoints;
-                deadPigCounter++;
-                var bang = Instantiate(blast, transform.position, Quaternion.identity);
-                Destroy(bang, timeDestroyBlast);
+                DestroyPig();
             }
+        }
+        private void DestroyPig()
+        {
+            isPigDied = true;
+            Destroy(gameObject);
+            Score.score += pigPoints;
+            deadPigCounter++;
+            var bang = Instantiate(blast, transform.position, Quaternion.identity);
+            Destroy(bang, timeDestroyBlast);
         }
     }
 }

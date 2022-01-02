@@ -26,20 +26,24 @@ namespace Game
         void Start()
         {
             numberBirds = settings.numberBirds;
-            numberPigs = prefabPig.GetComponent<Pig>().numberPigs;
+            numberPigs = prefabPig.numberPigs;
             firstStarPoints = settings.firstStarPoints;
             secondStarPoints = settings.secondStarPoints;
             thirdStarPoints = settings.thirdStarPoints;
         }
         void Update()
         {
+            ShowEndGameMenu();
+        }
+        private void ShowEndGameMenu()
+        {
             if (GameController.runningBirdsCounter == numberBirds || Pig.deadPigCounter == numberPigs && isGameFinished != true)
             {
-                StartCoroutine("HoldUpTimeOne");
+                StartCoroutine("HoldUpTime");
                 isGameFinished = true;
             }
         }
-        public IEnumerator HoldUpTimeOne()
+        public IEnumerator HoldUpTime()
         {
             yield return new WaitForSeconds(delay);
             if (Score.score >= 0)

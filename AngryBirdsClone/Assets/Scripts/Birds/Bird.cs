@@ -21,20 +21,28 @@ namespace Birds
         }
         private void Update()
         {
+            ÑreateNextBird();
+            DestroyBirdEndGame();
+        }
+        private void OnCollisionEnter2D(Collision2D collision)
+        {
+            Destroy(gameObject, timeDestroyBird);
+        }
+        private void ÑreateNextBird()
+        {
             if (GameController.runningBirdsCounter < numberBirds && GameController.isSlingshotFired)
             {
                 StartCoroutine("RebornWait");
                 GameController.isSlingshotFired = false;
             }
+        }
+        private void DestroyBirdEndGame()
+        {
             if (EndGameController.isGameFinished == true && gameObject != null)
             {
                 Destroy(gameObject, delay);
                 EndGameController.isGameFinished = false;
             }
-        }
-        private void OnCollisionEnter2D(Collision2D collision)
-        {
-            Destroy(gameObject, timeDestroyBird);
         }
         public IEnumerator RebornWait()
         {
