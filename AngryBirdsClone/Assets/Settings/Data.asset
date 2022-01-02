@@ -15,6 +15,6 @@ MonoBehaviour:
   numberBirds: 4
   slingshotPower: 1200
   pigArmor: 3
-  firstStarPoints: 0
+  firstStarPoints: 500
   secondStarPoints: 1500
   thirdStarPoints: 2000
