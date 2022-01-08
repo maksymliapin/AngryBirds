@@ -30,18 +30,18 @@ namespace Birds
         }
         private void ÑreateNextBird()
         {
-            if (GameController.runningBirdsCounter < numberBirds && GameController.isSlingshotFired)
+            if (GameHelper.instance.runningBirdsCounter < numberBirds && GameHelper.instance.isSlingshotFired)
             {
                 StartCoroutine("RebornWait");
-                GameController.isSlingshotFired = false;
+                GameHelper.instance.isSlingshotFired = false;
             }
         }
         private void DestroyBirdEndGame()
         {
-            if (EndGameController.isGameFinished == true && gameObject != null)
+            if (GameHelper.instance.isGameFinished && gameObject != null)
             {
                 Destroy(gameObject, delay);
-                EndGameController.isGameFinished = false;
+                GameHelper.instance.isGameFinished = false;
             }
         }
         public IEnumerator RebornWait()

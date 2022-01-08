@@ -6,8 +6,6 @@ namespace Game
 {
     public class GameController : MonoBehaviour
     {
-        public static int runningBirdsCounter;
-        public static bool isSlingshotFired;
         [SerializeField] private DataSettings settings;
         private Bird selectedBird;
         private float slingshotPower;
@@ -78,8 +76,8 @@ namespace Game
                 body.AddForce(new Vector2(selectedBird.startingPosition.x - selectedBird.transform.position.x, selectedBird.startingPosition.y - selectedBird.transform.position.y) * slingshotPower);
             }
             GetComponent<AudioSource>().PlayDelayed(0);
-            isSlingshotFired = true;
-            runningBirdsCounter++;
+            GameHelper.instance.isSlingshotFired = true;
+            GameHelper.instance.runningBirdsCounter++;
         }
     }
 }

@@ -20,7 +20,7 @@ namespace UI
         }
         private void ShowAttempts()
         {
-            var attempts = numberAttempts - GameController.runningBirdsCounter;
+            var attempts = numberAttempts - GameHelper.instance.runningBirdsCounter;
             counter.text = attempts.ToString();
         }
     }

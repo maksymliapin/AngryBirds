@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Pigs\MiniPig.cs" />
     <Compile Include="Assets\Scripts\Game\EndGameController.cs" />
     <Compile Include="Assets\Scripts\Pigs\Pig.cs" />
+    <Compile Include="Assets\Scripts\Game\GameHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

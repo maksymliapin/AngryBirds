@@ -8,7 +8,6 @@ namespace Game
 {
     public class EndGameController : MonoBehaviour
     {
-        public static bool isGameFinished;
         [SerializeField] private DataSettings settings;
         [SerializeField] private GameObject firstStar;
         [SerializeField] private GameObject secondStar;
@@ -16,17 +15,14 @@ namespace Game
         [SerializeField] private GameObject score;
         [SerializeField] private GameObject scene;
         [SerializeField] private GameObject menuAndGame;
-        [SerializeField] private Pig prefabPig;
         private int firstStarPoints;
         private int secondStarPoints;
         private int thirdStarPoints;
         private const float delay = 4.0f;
         private int numberBirds;
-        private int numberPigs;
         void Start()
         {
             numberBirds = settings.numberBirds;
-            numberPigs = prefabPig.numberPigs;
             firstStarPoints = settings.firstStarPoints;
             secondStarPoints = settings.secondStarPoints;
             thirdStarPoints = settings.thirdStarPoints;
@@ -37,30 +33,30 @@ namespace Game
         }
         private void ShowEndGameMenu()
         {
-            if (GameController.runningBirdsCounter == numberBirds || Pig.deadPigCounter == numberPigs && isGameFinished != true)
+            if (GameHelper.instance.runningBirdsCounter == numberBirds || GameHelper.instance.deadPigCounter == GameHelper.instance.numberPigs && GameHelper.instance.isGameFinished != true)
             {
                 StartCoroutine("HoldUpTime");
-                isGameFinished = true;
+                GameHelper.instance.isGameFinished = true;
             }
         }
         public IEnumerator HoldUpTime()
         {
             yield return new WaitForSeconds(delay);
-            if (Score.score >= 0)
+            if (GameHelper.instance.score >= 0)
             {
                 score.SetActive(false);
                 scene.SetActive(false);
                 menuAndGame.SetActive(true);
             }
-            if (Score.score >= firstStarPoints)
+            if (GameHelper.instance.score >= firstStarPoints)
             {
                 firstStar.SetActive(true);
             }
-            if (Score.score >= secondStarPoints)
+            if (GameHelper.instance.score >= secondStarPoints)
             {
                 secondStar.SetActive(true);
             }
-            if (Score.score >= thirdStarPoints)
+            if (GameHelper.instance.score >= thirdStarPoints)
             {
                 thirdStar.SetActive(true);
             }
