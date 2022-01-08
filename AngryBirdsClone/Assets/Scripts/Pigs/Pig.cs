@@ -5,34 +5,14 @@ using UnityEngine;
 
 namespace Pigs
 {
-    public class Pig : MonoBehaviour
+    public class Pig : BasePig
     {
-        protected int pigPoints = 100;
-        protected float pigArmor;
-        protected const float timeDestroyBlast = 2.0f;
-        [SerializeField] private DataSettings settings;
-        [SerializeField] private GameObject blast;
-        private bool isPigDied;
-        private void Awake()
+        private float pigArmor = 1.0f;
+        private int pigPoints = 100;
+        void Start()
         {
-            pigArmor = settings.pigArmor;
-            GameHelper.instance.numberPigs++;
-        }
-        private void OnCollisionEnter2D(Collision2D collision)
-        {
-            if (collision.relativeVelocity.magnitude > pigArmor && isPigDied == false)
-            {
-                DestroyPig();
-            }
-        }
-        private void DestroyPig()
-        {
-            isPigDied = true;
-            Destroy(gameObject);
-            GameHelper.instance.score += pigPoints;
-            GameHelper.instance.deadPigCounter++;
-            var bang = Instantiate(blast, transform.position, Quaternion.identity);
-            Destroy(bang, timeDestroyBlast);
+            basePigArmor += pigArmor;
+            basePigPoints = pigPoints;
         }
     }
 }
