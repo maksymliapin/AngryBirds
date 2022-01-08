@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5301114827384719912}
   - component: {fileID: 5301114827384719913}
   - component: {fileID: 3263008579412083689}
+  - component: {fileID: 4595751418717168045}
   m_Layer: 0
   m_Name: MiniPig
   m_TagString: Untagged
@@ -98,9 +99,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.01}
   serializedVersion: 2
-  m_Radius: 0.24
+  m_Radius: 0.45
 --- !u!50 &5301114827384719913
 Rigidbody2D:
   serializedVersion: 4
@@ -134,9 +135,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c07dd32c151a8784082b1de984029d7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberPigs: 12
-  bonusPointsPig: 100
-  armorPigs: 0
-  waitDestroyBlast: 1
   settings: {fileID: 11400000, guid: 1398a3b5bbbbe074c84df29fa83be5ec, type: 2}
   blast: {fileID: 2749883165561988865, guid: e29cb0b2842010245a78aae337689953, type: 3}
+--- !u!95 &4595751418717168045
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5301114827384719918}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 985b090ffa3ec4046983a90416619bab, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

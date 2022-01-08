@@ -2541,7 +2541,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: BaleenPig
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1297218755, guid: 66adec91aaff80a458491100f36a561e, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 66adec91aaff80a458491100f36a561e, type: 3}
 --- !u!4 &921408238 stripped
 Transform:
@@ -5533,6 +5534,55 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7577356766750295309, guid: 024107de593852a459dc4065fb9f3a5e, type: 3}
   m_PrefabInstance: {fileID: 620079729}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2073388508 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1447877837762304338, guid: 66adec91aaff80a458491100f36a561e, type: 3}
+  m_PrefabInstance: {fileID: 913985128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!60 &2073388510
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073388508}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.2, y: 1.01}
+    newSize: {x: 1.2, y: 1.01}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.59999996, y: -0.044999998}
+      - {x: 0.47, y: 0.125}
+      - {x: 0.41, y: 0.39499998}
+      - {x: 0.37, y: 0.505}
+      - {x: 0.28, y: 0.505}
+      - {x: 0.08, y: 0.45499998}
+      - {x: -0.08, y: 0.42499998}
+      - {x: -0.14999999, y: 0.505}
+      - {x: -0.32, y: 0.505}
+      - {x: -0.39999998, y: 0.45499998}
+      - {x: -0.37, y: 0.285}
+      - {x: -0.56, y: 0.035}
+      - {x: -0.59999996, y: -0.085}
+      - {x: -0.59999996, y: -0.295}
+      - {x: -0.51, y: -0.42499998}
+      - {x: -0.29999998, y: -0.505}
+      - {x: 0.32999998, y: -0.505}
+      - {x: 0.5, y: -0.435}
+      - {x: 0.59999996, y: -0.305}
 --- !u!1 &2098990718
 GameObject:
   m_ObjectHideFlags: 0
