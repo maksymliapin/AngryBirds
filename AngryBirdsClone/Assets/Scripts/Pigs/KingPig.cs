@@ -1,13 +1,13 @@
 namespace Pigs
 {
-    public class KingPig : Pig
+    public class KingPig : BasePig
     {
-        private float kingPigArmor = 3f;
+        private float kingPigArmor = 3.0f;
         private int kingPigPoints = 500;
         void Start()
         {
-            pigArmor += kingPigArmor;
-            pigPoints = kingPigPoints;
+            basePigArmor += kingPigArmor;
+            basePigPoints = kingPigPoints;
         }
     }
 }
