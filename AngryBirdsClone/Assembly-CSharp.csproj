@@ -62,12 +62,13 @@
     <Compile Include="Assets\Scripts\UI\AttemptsCounter.cs" />
     <Compile Include="Assets\Scripts\UI\ButtonHome.cs" />
     <Compile Include="Assets\Scripts\Pigs\BaleenPig.cs" />
-    <Compile Include="Assets\Scripts\Birds\Bird.cs" />
+    <Compile Include="Assets\Scripts\Birds\RedBird.cs" />
     <Compile Include="Assets\Scripts\Pigs\KingPig.cs" />
     <Compile Include="Assets\Scripts\Pigs\MiniPig.cs" />
     <Compile Include="Assets\Scripts\Game\EndGameController.cs" />
     <Compile Include="Assets\Scripts\Pigs\Pig.cs" />
     <Compile Include="Assets\Scripts\Pigs\BasePig.cs" />
+    <Compile Include="Assets\Scripts\Birds\BaseBird.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

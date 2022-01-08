@@ -7,7 +7,7 @@ namespace Game
     public class GameController : MonoBehaviour
     {
         [SerializeField] private DataSettings settings;
-        private Bird selectedBird;
+        private BaseBird selectedBird;
         private float slingshotPower;
         private float maxTensionForward = -4f;
         private Vector3 cursor;
@@ -45,15 +45,15 @@ namespace Game
                 Collider2D[] selectedColliders = Physics2D.OverlapCircleAll(cursor, 0.1f);
                 foreach (var item in selectedColliders)
                 {
-                    if (item.GetComponent<Bird>())
+                    if (item.GetComponent<BaseBird>())
                     {
-                        selectedBird = item.GetComponent<Bird>();
+                        selectedBird = item.GetComponent<BaseBird>();
                         break;
                     }
                 }
             }
         }
-        private void RotateBird(Bird bird)
+        private void RotateBird(BaseBird bird)
         {
             var dir = bird.startingPosition - new Vector3(bird.transform.position.x, bird.transform.position.y);
             var angle = Mathf.Atan2(dir.x, dir.y) * Mathf.Rad2Deg;
