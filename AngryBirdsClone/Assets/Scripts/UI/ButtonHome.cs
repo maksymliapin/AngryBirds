@@ -15,16 +15,7 @@ namespace UI
         private void OnMouseUp()
         {
             transform.localScale /= changeSizeButton;
-            ResetCounters();
             SceneManager.LoadScene("SampleScene");
-        }
-        private void ResetCounters()
-        {
-            Score.score = 0;
-            GameController.runningBirdsCounter = 0;
-            Pig.deadPigCounter = 0;
-            GameController.isSlingshotFired = false;
-            EndGameController.isGameFinished = false;
         }
     }
 }

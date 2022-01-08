@@ -1,3 +1,4 @@
+using Game;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -5,7 +6,6 @@ namespace UI
 {
     public class Score : MonoBehaviour
     {
-        public static int score;
         public static int bestScore;
         [SerializeField] private Text textBestScoreEndGame;
         [SerializeField] private Text textScoreEndGame;
@@ -17,14 +17,14 @@ namespace UI
         }
         private void ShowScore()
         {
-            textScore.text = "Score: " + score.ToString();
+            textScore.text = "Score: " + GameHelper.instance.score.ToString();
             textScoreEndGame.text = textScore.text;
         }
         private void ShowBestScore()
         {
-            if (score > bestScore)
+            if (GameHelper.instance.score > bestScore)
             {
-                bestScore = score;
+                bestScore = GameHelper.instance.score;
             }
             textBestScoreEndGame.text = "Best Score: " + bestScore.ToString();
         }
