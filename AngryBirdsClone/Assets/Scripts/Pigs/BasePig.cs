@@ -8,7 +8,7 @@ namespace Pigs
     {
         protected int basePigPoints = 100;
         protected float basePigArmor;
-        protected const float timeDestroyBlast = 2.0f;
+        protected const float timeDestroyBlast = 1.0f;
         [SerializeField] private DataSettings settings;
         [SerializeField] private GameObject blast;
         private bool isPigDied;

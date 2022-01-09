@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5101969587622150341}
   - component: {fileID: 4299867351895654727}
   - component: {fileID: 8748640137467069658}
+  - component: {fileID: 8631107237541843778}
   m_Layer: 0
   m_Name: Triangle
   m_TagString: Untagged
@@ -143,3 +144,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &8631107237541843778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5846028539037837418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fea0f8df9266c941b942225356eb5e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blast: {fileID: 7715452665403956523, guid: c78bc6cb2a100de44b422f819c1f2a8f, type: 3}
