@@ -58,6 +58,7 @@
     <Compile Include="Assets\Scripts\UI\Score.cs" />
     <Compile Include="Assets\Scripts\Game\GameHelper.cs" />
     <Compile Include="Assets\Scripts\Birds\BaseBird.cs" />
+    <Compile Include="Assets\Scripts\Birds\BirdGeneraitor.cs" />
     <Compile Include="Assets\Scripts\Pigs\ProtectedPig.cs" />
     <Compile Include="Assets\Scripts\Game\GameController.cs" />
     <Compile Include="Assets\Scripts\UI\AttemptsCounter.cs" />
@@ -70,7 +71,7 @@
     <Compile Include="Assets\Scripts\Game\EndGameController.cs" />
     <Compile Include="Assets\Scripts\Pigs\Pig.cs" />
     <Compile Include="Assets\Scripts\Pigs\BasePig.cs" />
-    <Compile Include="Assets\Scripts\Birds\BirdGeneraitor.cs" />
+    <Compile Include="Assets\Scripts\Building\WoodenStructure.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
