@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5287871685186745397}
   - component: {fileID: 5287871685186745396}
   - component: {fileID: 3201872798125156391}
+  - component: {fileID: 8893024155883056987}
   m_Layer: 0
   m_Name: Chuck
   m_TagString: Untagged
@@ -158,7 +159,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startingPosition: {x: 0, y: 0, z: 0}
   settings: {fileID: 11400000, guid: 1398a3b5bbbbe074c84df29fa83be5ec, type: 2}
-  birdGeneraitor: {fileID: 0}
 --- !u!114 &3201872798125156391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -174,4 +174,22 @@ MonoBehaviour:
   settings: {fileID: 11400000, guid: 1398a3b5bbbbe074c84df29fa83be5ec, type: 2}
   prefabRedBird: {fileID: 8157858332585673302, guid: c0f3a03fb92d8b24892c537a065a541f, type: 3}
   prefabChuckBird: {fileID: 5287871685186745402}
-  birds: []
+--- !u!95 &8893024155883056987
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5287871685186745402}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ece80fbac8c0ed446a432bc2086462f3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
