@@ -1,6 +1,5 @@
 using Game;
 using Settings;
-using System.Collections;
 using UnityEngine;
 
 namespace Birds
@@ -9,45 +8,39 @@ namespace Birds
     {
         public Vector3 startingPosition;
         [SerializeField] private DataSettings settings;
+        private BirdGeneraitor birdGeneraitor;
         private float timeDestroyBird = 3.0f;
-        private float timeRespawnBird = 3.0f;
         private float delay = 2.0f;
-        private int numberBirds;
+        private int numberRedBirds;
+        private int numberChuckBirds;
         private void Start()
         {
-            numberBirds = settings.numberBirds;
-            startingPosition = transform.position;
+            Initialize();
             gameObject.GetComponent<Rigidbody2D>().isKinematic = true;
         }
         private void Update()
         {
-            ÑreateNextBird();
+            birdGeneraitor.ÑreateNextBird();
             DestroyBirdEndGame();
         }
         private void OnCollisionEnter2D(Collision2D collision)
         {
             Destroy(gameObject, timeDestroyBird);
         }
-        private void ÑreateNextBird()
-        {
-            if (GameHelper.instance.runningBirdsCounter < numberBirds && GameHelper.instance.isSlingshotFired)
-            {
-                StartCoroutine("RebornWait");
-                GameHelper.instance.isSlingshotFired = false;
-            }
-        }
         private void DestroyBirdEndGame()
         {
-            if (GameHelper.instance.isGameFinished && gameObject != null)
+            if (GameHelper.instance.isGameFinished)
             {
                 Destroy(gameObject, delay);
                 GameHelper.instance.isGameFinished = false;
             }
         }
-        public IEnumerator RebornWait()
+        private void Initialize()
         {
-            yield return new WaitForSeconds(timeRespawnBird);
-            Instantiate(gameObject, startingPosition, Quaternion.identity);
+            numberRedBirds = settings.numberRedBirds;
+            numberChuckBirds = settings.numberChuckBirds;
+            startingPosition = transform.position;
+            birdGeneraitor = GetComponent<BirdGeneraitor>();
         }
     }
 }

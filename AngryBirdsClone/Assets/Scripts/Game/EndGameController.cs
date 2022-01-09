@@ -22,10 +22,7 @@ namespace Game
         private int numberBirds;
         void Start()
         {
-            numberBirds = settings.numberBirds;
-            firstStarPoints = settings.firstStarPoints;
-            secondStarPoints = settings.secondStarPoints;
-            thirdStarPoints = settings.thirdStarPoints;
+            Initialize();
         }
         void Update()
         {
@@ -33,7 +30,7 @@ namespace Game
         }
         private void ShowEndGameMenu()
         {
-            if (GameHelper.instance.runningBirdsCounter == numberBirds || GameHelper.instance.deadPigCounter == GameHelper.instance.numberPigs && GameHelper.instance.isGameFinished != true)
+            if (GameHelper.instance.runningBirdsCounter == numberBirds || GameHelper.instance.deadPigCounter == GameHelper.instance.numberPigs)
             {
                 StartCoroutine("HoldUpTime");
                 GameHelper.instance.isGameFinished = true;
@@ -60,6 +57,13 @@ namespace Game
             {
                 thirdStar.SetActive(true);
             }
+        }
+        private void Initialize()
+        {
+            numberBirds = settings.numberRedBirds + settings.numberChuckBirds;
+            firstStarPoints = settings.firstStarPoints;
+            secondStarPoints = settings.secondStarPoints;
+            thirdStarPoints = settings.thirdStarPoints;
         }
     }
 }

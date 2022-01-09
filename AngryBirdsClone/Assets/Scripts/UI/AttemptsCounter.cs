@@ -7,12 +7,14 @@ namespace UI
 {
     public class AttemptsCounter : MonoBehaviour
     {
-        public Text counter;
+        public Text counterRed;
+        public Text counterChuck;
         [SerializeField] private DataSettings setiings;
-        private int numberAttempts;
+        private int numberAttemptsRedBirds;
+        private int numberAttemptsChuckBirds;
         void Start()
         {
-            numberAttempts = setiings.numberBirds;
+            Initialize();
         }
         void Update()
         {
@@ -20,8 +22,15 @@ namespace UI
         }
         private void ShowAttempts()
         {
-            var attempts = numberAttempts - GameHelper.instance.runningBirdsCounter;
-            counter.text = attempts.ToString();
+            var attemptsRed = numberAttemptsRedBirds - GameHelper.instance.runningRedCounter;
+            counterRed.text = attemptsRed.ToString();
+            var attemptsChuck = numberAttemptsChuckBirds - GameHelper.instance.runningChuckCounter;
+            counterChuck.text = attemptsChuck.ToString();
+        }
+        private void Initialize()
+        {
+            numberAttemptsRedBirds = setiings.numberRedBirds;
+            numberAttemptsChuckBirds = setiings.numberChuckBirds;
         }
     }
 }

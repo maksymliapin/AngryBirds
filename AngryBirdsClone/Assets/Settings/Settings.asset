@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c6487f51e3e21d42bb7007d6dcf96b2, type: 3}
   m_Name: Settings
   m_EditorClassIdentifier: 
-  numberBirds: 4
+  numberRedBirds: 3
+  numberChuckBirds: 1
   slingshotPower: 1200
   pigArmor: 3
   firstStarPoints: 500
