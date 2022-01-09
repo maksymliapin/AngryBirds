@@ -1,8 +1,3 @@
-using Game;
-using Settings;
-using UI;
-using UnityEngine;
-
 namespace Pigs
 {
     public class Pig : BasePig

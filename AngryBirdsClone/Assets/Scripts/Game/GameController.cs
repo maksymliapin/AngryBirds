@@ -9,7 +9,7 @@ namespace Game
         [SerializeField] private DataSettings settings;
         private BaseBird selectedBird;
         private float slingshotPower;
-        private float maxTensionForward = -4f;
+        private float maxTensionForward = -4.0f;
         private Vector3 cursor;
         private void Start()
         {
@@ -67,17 +67,18 @@ namespace Game
         {
             var body = selectedBird.GetComponent<Rigidbody2D>();
             body.isKinematic = false;
-            if (selectedBird.transform.position.x >= maxTensionForward)
-            {
-                body.AddForce(new Vector2(selectedBird.startingPosition.x + selectedBird.transform.position.x, selectedBird.startingPosition.y + selectedBird.transform.position.y) * slingshotPower);
-            }
-            else if (selectedBird.transform.position.x < maxTensionForward)
-            {
-                body.AddForce(new Vector2(selectedBird.startingPosition.x - selectedBird.transform.position.x, selectedBird.startingPosition.y - selectedBird.transform.position.y) * slingshotPower);
-            }
+            body.AddForce(new Vector2(selectedBird.startingPosition.x - selectedBird.transform.position.x, selectedBird.startingPosition.y - selectedBird.transform.position.y) * slingshotPower);
             GetComponent<AudioSource>().PlayDelayed(0);
             GameHelper.instance.isSlingshotFired = true;
             GameHelper.instance.runningBirdsCounter++;
+            if (selectedBird is RedBird)
+            {
+                GameHelper.instance.runningRedCounter++;
+            }
+            else if (selectedBird is ChuckBird)
+            {
+                GameHelper.instance.runningChuckCounter++;
+            }
         }
     }
 }

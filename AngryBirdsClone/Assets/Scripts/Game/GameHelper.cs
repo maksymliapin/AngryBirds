@@ -10,6 +10,8 @@ namespace Game
         public int deadPigCounter;
         public bool isSlingshotFired;
         public int runningBirdsCounter;
+        public int runningRedCounter;
+        public int runningChuckCounter;
         public bool isGameFinished;
         private void Awake()
         {

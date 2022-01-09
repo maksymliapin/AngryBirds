@@ -1,5 +1,3 @@
-using Game;
-using Pigs;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 

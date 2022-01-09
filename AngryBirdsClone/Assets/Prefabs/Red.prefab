@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8157858332585673301}
   - component: {fileID: 6036071699207455912}
   - component: {fileID: 6762369646590886562}
+  - component: {fileID: 3827732995024671173}
   m_Layer: 0
   m_Name: Red
   m_TagString: Untagged
@@ -137,6 +138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startingPosition: {x: 0, y: 0, z: 0}
   settings: {fileID: 11400000, guid: 1398a3b5bbbbe074c84df29fa83be5ec, type: 2}
+  birdGeneraitor: {fileID: 3827732995024671173}
 --- !u!95 &6762369646590886562
 Animator:
   serializedVersion: 3
@@ -156,3 +158,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &3827732995024671173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8157858332585673302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e9a9c62b26dd934183a575f31553779, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  settings: {fileID: 11400000, guid: 1398a3b5bbbbe074c84df29fa83be5ec, type: 2}
+  prefabRedBird: {fileID: 8157858332585673302}
+  prefabChuckBird: {fileID: 5287871685186745402, guid: 27b4d4b96de574643a97568fffde6c58, type: 3}
+  birds: []
