@@ -1,0 +1,54 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-829295c361ec29b4ea1c26334ede9a35
+# Starting compiling UnityEngine.UI.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0eb39127df1a5114690aee83f30cf976
+# Starting compiling UnityEditor.TestRunner.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-937a2fc07397cd94d8cbc0435042c14d
+# Starting compiling UnityEditor.UI.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-37da41efd0cd3e14c9a6539728bcf8a9
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-96f3aec561ca05f409d6bb1f217cc4ba
+# Starting compiling Unity.VSCode.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c49c38d483fe8ec41b76881cefa35b3c
+# Starting compiling Unity.2D.PixelPerfect.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-da4b43b2fc02cae4094e5b92cb6e771c
+# Starting compiling Unity.2D.Tilemap.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-826f99605057f504d85430dbe1f586f1
+# Starting compiling PsdPlugin.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-17bcad7c3589a7e4491433702e1e380e
+# Starting compiling Unity.VisualStudio.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ceb7c4c9557232046898d1565e2fd1c9
+# Starting compiling Unity.Timeline.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-dae47f20257d43045a3f782ef01fd3fa
+# Starting compiling Unity.TextMeshPro.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-11e341d845e204e4e95b8964837fddd6
+# Starting compiling Unity.2D.Sprite.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-3c3141e94234ebf4bafeb33a895a10c5
+# Starting compiling Unity.2D.Path.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-84b9f2fe1c791014c8938c7c49f4622f
+# Starting compiling Unity.PlasticSCM.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-672cf12d6b99f9f4f9bca8e022efd12e
+# Starting compiling Unity.Rider.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a0774bffc78f3b04ab05e55a0a0159ce
+# Starting compiling Unity.Mathematics.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-fd2608f9471912c4d8dd96aecdc3958f
+# Starting compiling Unity.2D.IK.Runtime.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6c87b8688f704044e94d93490f142e50
+# Starting compiling Unity.Services.Core.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f116fc99ea052cb4d965120442424736
+# Starting compiling Unity.2D.Animation.Triangle.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-441be145061db18439ce12b8be2e02ba
+# Starting compiling Unity.2D.PixelPerfect.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-790ebb3fcb386234f96c010f0d3ff00a
+# Starting compiling Unity.Timeline.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-bf1aca6ee41297e4398221a42c484649
+# Starting compiling Unity.2D.Common.Runtime.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9cc8e821d3e11164083d85746ebeeb71
+# Starting compiling NewAssembly.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d894ce61a1a05454c804a78383de40c2
+# Starting compiling Unity.InternalAPIEditorBridge.001.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-37b72ef387555974498f2b99b357c79b
+# Starting compiling Unity.TextMeshPro.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2b77ebb6a428d3a4299de458b41e5e36
+# Starting compiling Unity.CollabProxy.Editor.dll
+D:\Unity\2020.3.37f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-42fd9283f295e3142b9bf9446473c5cb
