@@ -8,7 +8,7 @@ namespace Birds
     {
         public Vector3 startingPosition;
         [SerializeField] private DataSettings settings;
-        private BirdGeneraitor birdGeneraitor;
+        private BirdGenerator birdGenerator;
         private float timeDestroyBird = 3.0f;
         private float delay = 2.0f;
         private int numberRedBirds;
@@ -20,7 +20,7 @@ namespace Birds
         }
         private void Update()
         {
-            birdGeneraitor.ÑreateNextBird();
+            birdGenerator.CreateNextBird();
             DestroyBirdEndGame();
         }
         private void OnCollisionEnter2D(Collision2D collision)
@@ -40,7 +40,7 @@ namespace Birds
             numberRedBirds = settings.numberRedBirds;
             numberChuckBirds = settings.numberChuckBirds;
             startingPosition = transform.position;
-            birdGeneraitor = GetComponent<BirdGeneraitor>();
+            birdGenerator = GetComponent<BirdGenerator>();
         }
     }
 }
