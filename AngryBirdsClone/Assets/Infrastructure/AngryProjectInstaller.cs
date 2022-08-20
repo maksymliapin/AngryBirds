@@ -2,7 +2,7 @@ using Zenject;
 
 namespace Infrastructure
 {
-    public class AngryInstaller : MonoInstaller
+    public class AngryProjectInstaller : MonoInstaller
     {
         public override void InstallBindings()
         {
