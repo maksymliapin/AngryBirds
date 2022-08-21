@@ -1,9 +1,8 @@
-﻿
 using Zenject;
 
-namespace Infrastructure
+namespace Infrastructure.Installers
 {
-    public class AngrySceneInstaller : MonoInstaller
+    public class AngryProjectInstaller : MonoInstaller
     {
         public override void InstallBindings()
         {
