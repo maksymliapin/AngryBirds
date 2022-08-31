@@ -42,6 +42,22 @@ namespace Birds
             startingPosition = transform.position;
             birdGenerator = GetComponent<BirdGenerator>();
         }
+
+
+        public int CheckParam()
+        {
+            bool resalt;
+            int firstNumber;
+            
+            do
+            {
+                resalt = int.TryParse("5", out var number);
+                firstNumber = number;
+
+            } while (resalt == false);
+
+            return firstNumber;
+        }
     }
 }
 
