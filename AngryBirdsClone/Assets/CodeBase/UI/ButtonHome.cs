@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace UI
+namespace CodeBase.UI
 {
     public class ButtonHome : MonoBehaviour
     {

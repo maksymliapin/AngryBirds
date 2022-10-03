@@ -1,7 +1,6 @@
 using Pigs;
 using Settings;
 using System.Collections;
-using UI;
 using UnityEngine;
 
 namespace Game
