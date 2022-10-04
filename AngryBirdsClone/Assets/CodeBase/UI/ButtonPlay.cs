@@ -24,6 +24,8 @@ namespace CodeBase.UI
             bird.SetActive(false);
             scene.SetActive(true);
             score.SetActive(true);
+            var menu = Resources.Load<GameObject>("Menu/SkinMenu");
+            Instantiate(menu);
         }
     }
 }
